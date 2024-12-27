@@ -1,0 +1,6 @@
+Camere libere:
+ID: 5809, Posti: 2, Vista: True
+Camere occupate:
+Camere prenotate:
+ID: 1727, Posti: 2, Vista: True, Cliente: Mario Rossi, Periodo: 2024-08-10 - 2024-08-15
+ID: 4990, Posti: 3, Vista: False, Cliente: Luca Bianchi, Periodo: 2024-08-20 - 2024-08-25
